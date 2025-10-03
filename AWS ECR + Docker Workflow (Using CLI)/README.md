@@ -31,7 +31,11 @@ This guide explains how to install AWS CLI, configure it, log in to ECR, create 
 
 Summary
 Installed & configured AWS CLI
+
 Created an ECR repo
+
 Installed Docker
+
 Built → Tagged → Pushed a Docker image
+
 Verified image inside AWS ECR
